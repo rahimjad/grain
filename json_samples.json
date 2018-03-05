@@ -1,0 +1,29 @@
+/* POST price */
+{
+  "price": {
+    "currency": "euro",
+    "amount": 100,
+    "starttime": 1511481600000,
+    "endtime": 1513001914290,
+    "type": "buy"
+  },
+  "commodity": {
+    "name": "wheat",
+    "quality": 10000,
+    "percentage": 5,
+    "origin": "russia",
+    "quantity1": 5000,
+    "quantity2": 10000,
+    "unit": "ton"
+  },
+  "parity": {
+    "incoterm": "fob"
+  },
+  "location": {
+    "latitude": 46.2050836,
+    "longitude": 6.1090692,
+    "country": "switzerland",
+    "city": "geneva",
+    "type": "city"
+  }
+}
